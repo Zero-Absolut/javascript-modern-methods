@@ -1,0 +1,1 @@
+const exibeMensagem = () => "olá Mateus";
